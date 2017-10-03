@@ -94,14 +94,7 @@ git commit -m "Change some texts"
 
 ## Level 2
 
-- Update the README with Markdown file format in your code editor
-- Tell a bit about what you want to create
-- Create an initial HTML file
-- Fill it up with proper HTML tags
-- Create a header, content, and footer
-- Create some good Git commit messages
-- Push your changes to GitHub
-
+hahahahahaha
 ```sh
 git push origin master
 ```
